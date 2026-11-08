@@ -1,0 +1,8362 @@
+[
+ {
+  "id": 9358,
+  "name": "RO0067A",
+  "locality": "Bucureşti",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 6310371,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 28581,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 1320338,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4405559994632,
+   "longitude": 26.151122
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.151122,
+   44.4405559994632,
+   26.151122,
+   44.4405559994632
+  ],
+  "distance": 4162.12157929,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 9360,
+  "name": "RO0069A",
+  "locality": "Bucureşti",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 6310378,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 28584,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 28585,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 1320335,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 6310353,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4116669994632,
+   "longitude": 26.052244
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.052244,
+   44.4116669994632,
+   26.052244,
+   44.4116669994632
+  ],
+  "distance": 4341.26081569,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 9361,
+  "name": "RO0071A",
+  "locality": "Ilfov",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 28586,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 28587,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 1320341,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 1320340,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 6310375,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.3488680301443,
+   "longitude": 26.0336260914258
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0336260914258,
+   44.3488680301443,
+   26.0336260914258,
+   44.3488680301443
+  ],
+  "distance": 10252.31932354,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 10779,
+  "name": "RO0065A",
+  "locality": "Bucureşti",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 6310373,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 36014,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 36016,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 1320336,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 1320332,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 6310364,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4470701280555,
+   "longitude": 26.0368600264486
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0368600264486,
+   44.4470701280555,
+   26.0368600264486,
+   44.4470701280555
+  ],
+  "distance": 5690.68737846,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 10781,
+  "name": "RO0066A",
+  "locality": "Bucureşti",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 6310350,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 36020,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 1320334,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 6310358,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4110818288512,
+   "longitude": 26.1847227222147
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.1847227222147,
+   44.4110818288512,
+   26.1847227222147,
+   44.4110818288512
+  ],
+  "distance": 6777.12632038,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 10784,
+  "name": "RO0068A",
+  "locality": "Bucureşti",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 36036,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 1320339,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 6310377,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.395807371193,
+   "longitude": 26.1483409532079
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.1483409532079,
+   44.395807371193,
+   26.1483409532079,
+   44.395807371193
+  ],
+  "distance": 5019.1650344,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 10789,
+  "name": "RO0070A",
+  "locality": "Bucureşti",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7573835,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 36042,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 1320337,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4289183724066,
+   "longitude": 26.1208525055138
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.1208525055138,
+   44.4289183724066,
+   26.1208525055138,
+   44.4289183724066
+  ],
+  "distance": 1480.20245609,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 10790,
+  "name": "RO0072A",
+  "locality": "Ilfov",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 193,
+   "name": "EEA Romania"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 36044,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 36069,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 1320342,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 1320333,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 6310368,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.6166408790592,
+   "longitude": 26.1166304236784
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2020-04-19",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.1166304236784,
+   44.6166408790592,
+   26.1166304236784,
+   44.6166408790592
+  ],
+  "distance": 21125.46936004,
+  "datetimeFirst": {
+   "utc": "2020-04-20T18:00:00Z",
+   "local": "2020-04-20T21:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-01-29T20:00:00Z",
+   "local": "2024-01-29T22:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163065,
+  "name": "B-11",
+  "locality": "BRAGADIRU",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775093,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7774996,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.3706359998788,
+   "longitude": 25.976136000028546
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.976136000028546,
+   44.3706359998788,
+   25.976136000028546,
+   44.3706359998788
+  ],
+  "distance": 11844.61711402,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163066,
+  "name": "B-10",
+  "locality": "CHIAJNA",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775035,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7773262,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.46027499972366,
+   "longitude": 25.987083000336547
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.987083000336547,
+   44.46027499972366,
+   25.987083000336547,
+   44.46027499972366
+  ],
+  "distance": 9912.34141072,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163067,
+  "name": "B-30",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774918,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.56000000018691,
+   "longitude": 25.950000000130714
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.950000000130714,
+   44.56000000018691,
+   25.950000000130714,
+   44.56000000018691
+  ],
+  "distance": 19136.61383096,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T09:00:00Z",
+   "local": "2024-07-30T12:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163068,
+  "name": "B-8",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11382585,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7773684,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7773636,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7773247,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 7774350,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.649033000123296,
+   "longitude": 26.144475000382045
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.144475000382045,
+   44.649033000123296,
+   26.144475000382045,
+   44.649033000123296
+  ],
+  "distance": 24919.45949769,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163069,
+  "name": "B-29",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774986,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.54999999984533,
+   "longitude": 26.0700000001739
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0700000001739,
+   44.54999999984533,
+   26.0700000001739,
+   44.54999999984533
+  ],
+  "distance": 13932.15839923,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163070,
+  "name": "B-26",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775737,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.50000000024475,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.50000000024475,
+   26.13999999967507,
+   44.50000000024475
+  ],
+  "distance": 8664.22653027,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163071,
+  "name": "B-28",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774564,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38999999989685,
+   "longitude": 26.249999999789512
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.249999999789512,
+   44.38999999989685,
+   26.249999999789512,
+   44.38999999989685
+  ],
+  "distance": 12440.24920567,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163072,
+  "name": "B-3",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775252,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 7775432,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7773471,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.444924999845064,
+   "longitude": 26.12728900010153
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12728900010153,
+   44.444924999845064,
+   26.12728900010153,
+   44.444924999845064
+  ],
+  "distance": 2819.86199261,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T16:00:00Z",
+   "local": "2026-09-21T19:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163073,
+  "name": "B-13",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773072,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.45000000023424,
+   "longitude": 26.12999999974633
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12999999974633,
+   44.45000000023424,
+   26.12999999974633,
+   44.45000000023424
+  ],
+  "distance": 3382.22030275,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163074,
+  "name": "B-15",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7772867,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.47000000027231,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.47000000027231,
+   26.13999999967507,
+   44.47000000027231
+  ],
+  "distance": 5652.80914657,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163075,
+  "name": "B-27",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776028,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.48999999983089,
+   "longitude": 26.180000000288338
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.180000000288338,
+   44.48999999983089,
+   26.180000000288338,
+   44.48999999983089
+  ],
+  "distance": 9346.86044147,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163076,
+  "name": "B-9",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773970,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7774523,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7773405,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.49167500026332,
+   "longitude": 26.030725000182034
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.030725000182034,
+   44.49167500026332,
+   26.030725000182034,
+   44.49167500026332
+  ],
+  "distance": 9197.76299333,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163077,
+  "name": "B-23",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773107,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.47000000027231,
+   "longitude": 25.99999999977441
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.99999999977441,
+   44.47000000027231,
+   25.99999999977441,
+   44.47000000027231
+  ],
+  "distance": 9466.40454375,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163078,
+  "name": "B-1",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11439019,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 8623290,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7773308,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7775905,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7773066,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 7775612,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.44727499968577,
+   "longitude": 26.036693999817814
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.036693999817814,
+   44.44727499968577,
+   26.036693999817814,
+   44.44727499968577
+  ],
+  "distance": 5711.85006518,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163079,
+  "name": "B-14",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774254,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.45000000023424,
+   "longitude": 26.0700000001739
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0700000001739,
+   44.45000000023424,
+   26.0700000001739,
+   44.45000000023424
+  ],
+  "distance": 3652.51900325,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163080,
+  "name": "B-6",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775509,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 7774877,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7775680,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.435043999693924,
+   "longitude": 26.098296999895624
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.098296999895624,
+   44.435043999693924,
+   26.098296999895624,
+   44.435043999693924
+  ],
+  "distance": 975.29255235,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163081,
+  "name": "B-24",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774450,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.410000000303135,
+   "longitude": 26.109999999888853
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.109999999888853,
+   44.410000000303135,
+   26.109999999888853,
+   44.410000000303135
+  ],
+  "distance": 1960.05068499,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163082,
+  "name": "B-12",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773176,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42999999979392,
+   "longitude": 26.090000000031374
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.090000000031374,
+   44.42999999979392,
+   26.090000000031374,
+   44.42999999979392
+  ],
+  "distance": 1056.94553577,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163083,
+  "name": "B-18",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774053,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42999999979392,
+   "longitude": 26.040000000387682
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.040000000387682,
+   44.42999999979392,
+   26.040000000387682,
+   44.42999999979392
+  ],
+  "distance": 4989.36397719,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163084,
+  "name": "B-5",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774827,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 7774981,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7773771,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7773753,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.41949400005138,
+   "longitude": 26.033641999691156
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.033641999691156,
+   44.41949400005138,
+   26.033641999691156,
+   44.41949400005138
+  ],
+  "distance": 5543.20810842,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163085,
+  "name": "B-20",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773871,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38999999989685,
+   "longitude": 26.119999999817594
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.119999999817594,
+   44.38999999989685,
+   26.119999999817594,
+   44.38999999989685
+  ],
+  "distance": 4320.28176364,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163086,
+  "name": "B-4",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774145,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7775543,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7772914,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.383908000254756,
+   "longitude": 26.125016999949555
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.125016999949555,
+   44.383908000254756,
+   26.125016999949555,
+   44.383908000254756
+  ],
+  "distance": 5092.50019769,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163087,
+  "name": "B-21",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774411,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38999999989685,
+   "longitude": 26.12999999974633
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12999999974633,
+   44.38999999989685,
+   26.12999999974633,
+   44.38999999989685
+  ],
+  "distance": 4638.9626388,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163088,
+  "name": "B-22",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774547,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.419999999965924,
+   "longitude": 26.14999999960381
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.14999999960381,
+   44.419999999965924,
+   26.14999999960381,
+   44.419999999965924
+  ],
+  "distance": 3857.33058093,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163089,
+  "name": "B-17",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773391,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.419999999965924,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.419999999965924,
+   26.13999999967507,
+   44.419999999965924
+  ],
+  "distance": 3080.37552248,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163090,
+  "name": "B-16",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775329,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42999999979392,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.42999999979392,
+   26.13999999967507,
+   44.42999999979392
+  ],
+  "distance": 3007.10387921,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163091,
+  "name": "B-2",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7773449,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 7774357,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7774635,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7775962,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.41796700027234,
+   "longitude": 26.160786000253328
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.160786000253328,
+   44.41796700027234,
+   26.160786000253328,
+   44.41796700027234
+  ],
+  "distance": 4744.2487937,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T16:00:00Z",
+   "local": "2026-09-21T19:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163092,
+  "name": "B-7",
+  "locality": "MAGURELE",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7774212,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7775102,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7774338,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7775496,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 7774445,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.34922199975112,
+   "longitude": 26.030828000114195
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.030828000114195,
+   44.34922199975112,
+   26.030828000114195,
+   44.34922199975112
+  ],
+  "distance": 10340.55428364,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163093,
+  "name": "B-25",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7775918,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.30000000004447,
+   "longitude": 26.119999999817594
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.119999999817594,
+   44.30000000004447,
+   26.119999999817594,
+   44.30000000004447
+  ],
+  "distance": 14158.8222316,
+  "datetimeFirst": {
+   "utc": "2024-01-28T23:00:00Z",
+   "local": "2024-01-29T01:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163094,
+  "name": "B-11",
+  "locality": "BRAGADIRU",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613451,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 8613641,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.3706359998788,
+   "longitude": 25.976136000028546
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.976136000028546,
+   44.3706359998788,
+   25.976136000028546,
+   44.3706359998788
+  ],
+  "distance": 11844.61711402,
+  "datetimeFirst": {
+   "utc": "2024-03-23T21:00:00Z",
+   "local": "2024-03-23T23:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T09:00:00Z",
+   "local": "2024-07-30T12:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163095,
+  "name": "B-10",
+  "locality": "CHIAJNA",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613681,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 8613563,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.46027499972366,
+   "longitude": 25.987083000336547
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.987083000336547,
+   44.46027499972366,
+   25.987083000336547,
+   44.46027499972366
+  ],
+  "distance": 9912.34141072,
+  "datetimeFirst": {
+   "utc": "2024-03-25T08:00:00Z",
+   "local": "2024-03-25T10:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163096,
+  "name": "B-30",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613516,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.56000000018691,
+   "longitude": 25.950000000130714
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.950000000130714,
+   44.56000000018691,
+   25.950000000130714,
+   44.56000000018691
+  ],
+  "distance": 19136.61383096,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163097,
+  "name": "B-8",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11382584,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7776626,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7776508,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7776557,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 7776473,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.649033000123296,
+   "longitude": 26.144475000382045
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.144475000382045,
+   44.649033000123296,
+   26.144475000382045,
+   44.649033000123296
+  ],
+  "distance": 24919.45949769,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T16:00:00Z",
+   "local": "2026-09-21T19:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163098,
+  "name": "B-29",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776472,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.54999999984533,
+   "longitude": 26.0700000001739
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0700000001739,
+   44.54999999984533,
+   26.0700000001739,
+   44.54999999984533
+  ],
+  "distance": 13932.15839923,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163099,
+  "name": "B-26",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776581,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.50000000024475,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.50000000024475,
+   26.13999999967507,
+   44.50000000024475
+  ],
+  "distance": 8664.22653027,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163100,
+  "name": "B-28",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776553,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38999999989685,
+   "longitude": 26.249999999789512
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.249999999789512,
+   44.38999999989685,
+   26.249999999789512,
+   44.38999999989685
+  ],
+  "distance": 12440.24920567,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163101,
+  "name": "B-3",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11438929,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 8613414,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 8613670,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.444924999845064,
+   "longitude": 26.12728900010153
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12728900010153,
+   44.444924999845064,
+   26.12728900010153,
+   44.444924999845064
+  ],
+  "distance": 2819.86199261,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163102,
+  "name": "B-13",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8622617,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.45000000023424,
+   "longitude": 26.12999999974633
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12999999974633,
+   44.45000000023424,
+   26.12999999974633,
+   44.45000000023424
+  ],
+  "distance": 3382.22030275,
+  "datetimeFirst": {
+   "utc": "2024-03-23T16:00:00Z",
+   "local": "2024-03-23T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163103,
+  "name": "B-15",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776495,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.47000000027231,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.47000000027231,
+   26.13999999967507,
+   44.47000000027231
+  ],
+  "distance": 5652.80914657,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163104,
+  "name": "B-27",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8622622,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.48999999983089,
+   "longitude": 26.180000000288338
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.180000000288338,
+   44.48999999983089,
+   26.180000000288338,
+   44.48999999983089
+  ],
+  "distance": 9346.86044147,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163105,
+  "name": "B-9",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776623,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7776525,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7776547,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.49167500026332,
+   "longitude": 26.030725000182034
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.030725000182034,
+   44.49167500026332,
+   26.030725000182034,
+   44.49167500026332
+  ],
+  "distance": 9197.76299333,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163106,
+  "name": "B-23",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613691,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.47000000027231,
+   "longitude": 25.99999999977441
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.99999999977441,
+   44.47000000027231,
+   25.99999999977441,
+   44.47000000027231
+  ],
+  "distance": 9466.40454375,
+  "datetimeFirst": {
+   "utc": "2024-03-25T04:00:00Z",
+   "local": "2024-03-25T06:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163107,
+  "name": "B-1",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11438930,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 8613102,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 7776625,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 7776471,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 7776582,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 7776478,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.44727499968577,
+   "longitude": 26.036693999817818
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.036693999817818,
+   44.44727499968577,
+   26.036693999817818,
+   44.44727499968577
+  ],
+  "distance": 5711.85006518,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T16:00:00Z",
+   "local": "2026-09-21T19:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163108,
+  "name": "B-14",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776568,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.45000000023424,
+   "longitude": 26.0700000001739
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0700000001739,
+   44.45000000023424,
+   26.0700000001739,
+   44.45000000023424
+  ],
+  "distance": 3652.51900325,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163109,
+  "name": "B-6",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11438931,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 8613466,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 8613583,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.435043999693924,
+   "longitude": 26.098296999895624
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.098296999895624,
+   44.435043999693924,
+   26.098296999895624,
+   44.435043999693924
+  ],
+  "distance": 975.29255235,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T15:00:00Z",
+   "local": "2026-09-21T18:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163110,
+  "name": "B-24",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8622302,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.410000000303135,
+   "longitude": 26.109999999888853
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.109999999888853,
+   44.410000000303135,
+   26.109999999888853,
+   44.410000000303135
+  ],
+  "distance": 1960.05068499,
+  "datetimeFirst": {
+   "utc": "2024-03-23T16:00:00Z",
+   "local": "2024-03-23T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163111,
+  "name": "B-12",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8623580,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42999999979392,
+   "longitude": 26.090000000031374
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.090000000031374,
+   44.42999999979392,
+   26.090000000031374,
+   44.42999999979392
+  ],
+  "distance": 1056.94553577,
+  "datetimeFirst": {
+   "utc": "2024-03-23T16:00:00Z",
+   "local": "2024-03-23T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163112,
+  "name": "B-18",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613672,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42999999979392,
+   "longitude": 26.040000000387682
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.040000000387682,
+   44.42999999979392,
+   26.040000000387682,
+   44.42999999979392
+  ],
+  "distance": 4989.36397719,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163113,
+  "name": "B-5",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11439023,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 8613434,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 8613665,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 8613704,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.41949400005138,
+   "longitude": 26.033641999691156
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.033641999691156,
+   44.41949400005138,
+   26.033641999691156,
+   44.41949400005138
+  ],
+  "distance": 5543.20810842,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T15:00:00Z",
+   "local": "2026-09-21T18:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163114,
+  "name": "B-20",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8622223,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38999999989685,
+   "longitude": 26.119999999817594
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.119999999817594,
+   44.38999999989685,
+   26.119999999817594,
+   44.38999999989685
+  ],
+  "distance": 4320.28176364,
+  "datetimeFirst": {
+   "utc": "2024-03-25T01:00:00Z",
+   "local": "2024-03-25T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163115,
+  "name": "B-4",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613353,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 8613372,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 8613395,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.383908000254756,
+   "longitude": 26.125016999949555
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.125016999949555,
+   44.383908000254756,
+   26.125016999949555,
+   44.383908000254756
+  ],
+  "distance": 5092.50019769,
+  "datetimeFirst": {
+   "utc": "2024-03-18T07:00:00Z",
+   "local": "2024-03-18T09:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T13:00:00Z",
+   "local": "2026-09-21T16:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163116,
+  "name": "B-21",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 7776546,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38999999989685,
+   "longitude": 26.12999999974633
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12999999974633,
+   44.38999999989685,
+   26.12999999974633,
+   44.38999999989685
+  ],
+  "distance": 4638.9626388,
+  "datetimeFirst": {
+   "utc": "2024-01-29T01:00:00Z",
+   "local": "2024-01-29T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163117,
+  "name": "B-22",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8622270,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.419999999965924,
+   "longitude": 26.14999999960381
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.14999999960381,
+   44.419999999965924,
+   26.14999999960381,
+   44.419999999965924
+  ],
+  "distance": 3857.33058093,
+  "datetimeFirst": {
+   "utc": "2024-03-23T21:00:00Z",
+   "local": "2024-03-23T23:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T11:00:00Z",
+   "local": "2024-07-30T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163118,
+  "name": "B-17",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613446,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.419999999965924,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.419999999965924,
+   26.13999999967507,
+   44.419999999965924
+  ],
+  "distance": 3080.37552248,
+  "datetimeFirst": {
+   "utc": "2024-03-23T16:00:00Z",
+   "local": "2024-03-23T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163119,
+  "name": "B-16",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613612,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42999999979392,
+   "longitude": 26.13999999967507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13999999967507,
+   44.42999999979392,
+   26.13999999967507,
+   44.42999999979392
+  ],
+  "distance": 3007.10387921,
+  "datetimeFirst": {
+   "utc": "2024-03-23T16:00:00Z",
+   "local": "2024-03-23T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163120,
+  "name": "B-2",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11438932,
+    "name": "co µg/m³",
+    "parameter": {
+     "id": 4,
+     "name": "co",
+     "units": "µg/m³",
+     "displayName": "CO mass"
+    }
+   },
+   {
+    "id": 8622321,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 8622219,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 8622237,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.41796700027234,
+   "longitude": 26.160786000253328
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.160786000253328,
+   44.41796700027234,
+   26.160786000253328,
+   44.41796700027234
+  ],
+  "distance": 4744.2487937,
+  "datetimeFirst": {
+   "utc": "2024-03-25T01:00:00Z",
+   "local": "2024-03-25T03:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2163121,
+  "name": "B-7",
+  "locality": "MAGURELE",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8613564,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 8613411,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 8613431,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 8613687,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 8613654,
+    "name": "so2 µg/m³",
+    "parameter": {
+     "id": 6,
+     "name": "so2",
+     "units": "µg/m³",
+     "displayName": "SO₂ mass"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.34922199975112,
+   "longitude": 26.030828000114195
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.030828000114195,
+   44.34922199975112,
+   26.030828000114195,
+   44.34922199975112
+  ],
+  "distance": 10340.55428364,
+  "datetimeFirst": {
+   "utc": "2024-03-23T18:00:00Z",
+   "local": "2024-03-23T20:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-09-21T15:00:00Z",
+   "local": "2026-09-21T18:00:00+03:00"
+  }
+ },
+ {
+  "id": 2163122,
+  "name": "B-25",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8622648,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.30000000004447,
+   "longitude": 26.119999999817594
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.119999999817594,
+   44.30000000004447,
+   26.119999999817594,
+   44.30000000004447
+  ],
+  "distance": 14158.8222316,
+  "datetimeFirst": {
+   "utc": "2024-03-23T16:00:00Z",
+   "local": "2024-03-23T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-07-30T10:00:00Z",
+   "local": "2024-07-30T13:00:00+03:00"
+  }
+ },
+ {
+  "id": 2737504,
+  "name": "B-19",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 8793318,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.419999999965924,
+   "longitude": 26.0700000001739
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.0700000001739,
+   44.419999999965924,
+   26.0700000001739,
+   44.419999999965924
+  ],
+  "distance": 2696.14241213,
+  "datetimeFirst": {
+   "utc": "2024-04-06T23:00:00Z",
+   "local": "2024-04-07T02:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-06-14T14:00:00Z",
+   "local": "2024-06-14T17:00:00+03:00"
+  }
+ },
+ {
+  "id": 2995838,
+  "name": "B-10",
+  "locality": "CHIAJNA",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 14684288,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 10124835,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 10124813,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.46038820028955,
+   "longitude": 25.98737529955358
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.98737529955358,
+   44.46038820028955,
+   25.98737529955358,
+   44.46038820028955
+  ],
+  "distance": 9895.50641343,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995839,
+  "name": "B-11",
+  "locality": "BRAGADIRU",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 14684268,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 10124846,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 10124858,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.36974330023394,
+   "longitude": 25.97479820016135
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.97479820016135,
+   44.36974330023394,
+   25.97479820016135,
+   44.36974330023394
+  ],
+  "distance": 11987.56642242,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995840,
+  "name": "B-12",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124809,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684294,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42548369981165,
+   "longitude": 26.09100340023743
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.09100340023743,
+   44.42548369981165,
+   26.09100340023743,
+   44.42548369981165
+  ],
+  "distance": 927.08426304,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995841,
+  "name": "B-13",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124820,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684275,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.450759899946064,
+   "longitude": 26.13029859974677
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.13029859974677,
+   44.450759899946064,
+   26.13029859974677,
+   44.450759899946064
+  ],
+  "distance": 3462.1549527,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995842,
+  "name": "B-14",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124815,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684284,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.44618229971936,
+   "longitude": 26.066266999806768
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.066266999806768,
+   44.44618229971936,
+   26.066266999806768,
+   44.44618229971936
+  ],
+  "distance": 3600.05076052,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995843,
+  "name": "B-15",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124840,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684272,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.468055699816084,
+   "longitude": 26.140905399971835
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.140905399971835,
+   44.468055699816084,
+   26.140905399971835,
+   44.468055699816084
+  ],
+  "distance": 5510.20787185,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995844,
+  "name": "B-16",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124859,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684292,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.43214419998374,
+   "longitude": 26.14021490004723
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.14021490004723,
+   44.43214419998374,
+   26.14021490004723,
+   44.43214419998374
+  ],
+  "distance": 3061.21649341,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995845,
+  "name": "B-17",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124834,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684280,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.41974260010748,
+   "longitude": 26.136154199654346
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.136154199654346,
+   44.41974260010748,
+   26.136154199654346,
+   44.41974260010748
+  ],
+  "distance": 2792.39428278,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995846,
+  "name": "B-18",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124822,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684269,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4341086998202,
+   "longitude": 26.04233169987849
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.04233169987849,
+   44.4341086998202,
+   26.04233169987849,
+   44.4341086998202
+  ],
+  "distance": 4859.1934683,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995847,
+  "name": "B-20",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124831,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684286,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.39267729978861,
+   "longitude": 26.12041659981881
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12041659981881,
+   44.39267729978861,
+   26.12041659981881,
+   44.39267729978861
+  ],
+  "distance": 4051.39039365,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995848,
+  "name": "B-21",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124810,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684264,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38613890030204,
+   "longitude": 26.130407300387724
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.130407300387724,
+   44.38613890030204,
+   26.130407300387724,
+   44.38613890030204
+  ],
+  "distance": 5035.52213954,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995849,
+  "name": "B-22",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124842,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684267,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.41850660022456,
+   "longitude": 26.149198500249433
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.149198500249433,
+   44.41850660022456,
+   26.149198500249433,
+   44.41850660022456
+  ],
+  "distance": 3831.30410944,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995850,
+  "name": "B-23",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124862,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684289,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.47031400018909,
+   "longitude": 26.002456699837005
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.002456699837005,
+   44.47031400018909,
+   26.002456699837005,
+   44.47031400018909
+  ],
+  "distance": 9316.43257331,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995851,
+  "name": "B-24",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124851,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684262,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.40710069984446,
+   "longitude": 26.113142000427192
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.113142000427192,
+   44.40710069984446,
+   26.113142000427192,
+   44.40710069984446
+  ],
+  "distance": 2347.34786232,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995852,
+  "name": "B-25",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124816,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684276,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.30010990029692,
+   "longitude": 26.12012480006507
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.12012480006507,
+   44.30010990029692,
+   26.12012480006507,
+   44.30010990029692
+  ],
+  "distance": 14147.65414866,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995853,
+  "name": "B-26",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124829,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684282,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.49925609981335,
+   "longitude": 26.135429400255557
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.135429400255557,
+   44.49925609981335,
+   26.135429400255557,
+   44.49925609981335
+  ],
+  "distance": 8467.13521801,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995854,
+  "name": "B-27",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124839,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684260,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.48823930007044,
+   "longitude": 26.184184999668773
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.184184999668773,
+   44.48823930007044,
+   26.184184999668773,
+   44.48823930007044
+  ],
+  "distance": 9427.34743612,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995855,
+  "name": "B-28",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124830,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684297,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.38578410022991,
+   "longitude": 26.24712560018779
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.24712560018779,
+   44.38578410022991,
+   26.24712560018779,
+   44.38578410022991
+  ],
+  "distance": 12389.21114267,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995856,
+  "name": "B-29",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124832,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684281,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.550273900238935,
+   "longitude": 26.07054140042259
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.07054140042259,
+   44.550273900238935,
+   26.07054140042259,
+   44.550273900238935
+  ],
+  "distance": 13954.15659769,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995857,
+  "name": "B-30",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10124857,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684273,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.56106190031911,
+   "longitude": 25.947101600239545
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.947101600239545,
+   44.56106190031911,
+   25.947101600239545,
+   44.56106190031911
+  ],
+  "distance": 19374.2110391,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 2995858,
+  "name": "B-9",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 14684277,
+    "name": "no2 µg/m³",
+    "parameter": {
+     "id": 5,
+     "name": "no2",
+     "units": "µg/m³",
+     "displayName": "NO₂ mass"
+    }
+   },
+   {
+    "id": 10124814,
+    "name": "o3 µg/m³",
+    "parameter": {
+     "id": 3,
+     "name": "o3",
+     "units": "µg/m³",
+     "displayName": "O₃ mass"
+    }
+   },
+   {
+    "id": 10124838,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 10124852,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.49180980008289,
+   "longitude": 26.03092579969918
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.03092579969918,
+   44.49180980008289,
+   26.03092579969918,
+   44.49180980008289
+  ],
+  "distance": 9199.60052091,
+  "datetimeFirst": {
+   "utc": "2024-07-27T11:00:00Z",
+   "local": "2024-07-27T14:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 3056516,
+  "name": "Domnesti",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 11509,
+   "name": "Unknown Person"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 7,
+    "name": "Unknown AirGradient Sensor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10563636,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 10563640,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 10563620,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 10563635,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 10563623,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 10563629,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.402535,
+   "longitude": 25.94671
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Unknown Person",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.94671,
+   44.402535,
+   25.94671,
+   44.402535
+  ],
+  "distance": 12697.55247957,
+  "datetimeFirst": {
+   "utc": "2024-09-10T13:00:00Z",
+   "local": "2024-09-10T16:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2024-09-11T11:00:00Z",
+   "local": "2024-09-11T14:00:00+03:00"
+  }
+ },
+ {
+  "id": 3057997,
+  "name": "Domnesti",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 11509,
+   "name": "Unknown Person"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 10574640,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 10574649,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 10574666,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 10574644,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 10574642,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 10574664,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.40255,
+   "longitude": 25.94668
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Unknown Person",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   25.94668,
+   44.40255,
+   25.94668,
+   44.40255
+  ],
+  "distance": 12699.532033,
+  "datetimeFirst": {
+   "utc": "2024-09-11T12:00:00Z",
+   "local": "2024-09-11T15:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 3269331,
+  "name": "Voluntari Mihai Viteazul",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 11251,
+   "name": "Catalin"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11304737,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 11304747,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 11304723,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 11304733,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 11304745,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 11304755,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.4892,
+   "longitude": 26.1758059
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Catalin",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.1758059,
+   44.4892,
+   26.1758059,
+   44.4892
+  ],
+  "distance": 9061.8625204,
+  "datetimeFirst": {
+   "utc": "2024-11-14T19:00:00Z",
+   "local": "2024-11-14T21:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 3287093,
+  "name": "B-19",
+  "locality": "BUCURESTI",
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4,
+   "name": "Unknown Governmental Organization"
+  },
+  "provider": {
+   "id": 70,
+   "name": "EEA"
+  },
+  "isMobile": false,
+  "isMonitor": true,
+  "instruments": [
+   {
+    "id": 2,
+    "name": "Government Monitor"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11437228,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 14684274,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.42267609974606,
+   "longitude": 26.07074930022374
+  },
+  "licenses": [
+   {
+    "id": 10,
+    "name": "ODC-BY",
+    "attribution": {
+     "name": "Unknown Governmental Organization",
+     "url": null
+    },
+    "dateFrom": "2016-11-17",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.07074930022374,
+   44.42267609974606,
+   26.07074930022374,
+   44.42267609974606
+  ],
+  "distance": 2569.55730978,
+  "datetimeFirst": {
+   "utc": "2024-11-23T11:00:00Z",
+   "local": "2024-11-23T13:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T14:00:00Z",
+   "local": "2026-11-07T16:00:00+02:00"
+  }
+ },
+ {
+  "id": 3325000,
+  "name": "Bucharest",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 11509,
+   "name": "Unknown Person"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 11708377,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 11708372,
+    "name": "pm10 µg/m³",
+    "parameter": {
+     "id": 1,
+     "name": "pm10",
+     "units": "µg/m³",
+     "displayName": "PM10"
+    }
+   },
+   {
+    "id": 11708376,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 11708386,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 11708369,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 11708371,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.39635887573729,
+   "longitude": 26.098526765928177
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Unknown Person",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.098526765928177,
+   44.39635887573729,
+   26.098526765928177,
+   44.39635887573729
+  ],
+  "distance": 3397.39776804,
+  "datetimeFirst": {
+   "utc": "2024-12-18T16:00:00Z",
+   "local": "2024-12-18T18:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 3446219,
+  "name": "Drumul Vf. Plesita 17",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 6684,
+   "name": "George"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 14152404,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 14152405,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 14152406,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 14152407,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 14152408,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.511033,
+   "longitude": 26.041562
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "George",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.041562,
+   44.511033,
+   26.041562,
+   44.511033
+  ],
+  "distance": 10541.5145968,
+  "datetimeFirst": {
+   "utc": "2025-09-19T00:00:00Z",
+   "local": "2025-09-19T03:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 3977252,
+  "name": "Str G Bucharest - Pipera ",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 16748,
+   "name": "Clean Air please"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 12696782,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 12696783,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 12696784,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 12696785,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 12696786,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.47802617035037,
+   "longitude": 26.11988581603482
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Clean Air please",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.11988581603482,
+   44.47802617035037,
+   26.11988581603482,
+   44.47802617035037
+  ],
+  "distance": 5858.09636571,
+  "datetimeFirst": {
+   "utc": "2025-04-06T08:00:00Z",
+   "local": "2025-04-06T11:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 5245556,
+  "name": "DBx15OCP",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 16936,
+   "name": "OCP"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 13725140,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 13725141,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 13725142,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 13725143,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 13725144,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.428936,
+   "longitude": 26.125512
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "OCP",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.125512,
+   44.428936,
+   26.125512,
+   44.428936
+  ],
+  "distance": 1847.69777172,
+  "datetimeFirst": {
+   "utc": "2025-07-29T09:00:00Z",
+   "local": "2025-07-29T12:00:00+03:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 6115756,
+  "name": "Bucharest Romania",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4136548,
+   "name": "Reven6e"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 14525934,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 14525935,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 14525936,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 14525937,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 14525938,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.472794,
+   "longitude": 26.048324
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Reven6e",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.048324,
+   44.472794,
+   26.048324,
+   44.472794
+  ],
+  "distance": 6687.08731196,
+  "datetimeFirst": {
+   "utc": "2025-11-01T18:00:00Z",
+   "local": "2025-11-01T20:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ },
+ {
+  "id": 6233613,
+  "name": "Magura Vulturui",
+  "locality": null,
+  "timezone": "Europe/Bucharest",
+  "country": {
+   "id": 74,
+   "code": "RO",
+   "name": "Romania"
+  },
+  "owner": {
+   "id": 4135740,
+   "name": "Andrei"
+  },
+  "provider": {
+   "id": 66,
+   "name": "AirGradient"
+  },
+  "isMobile": false,
+  "isMonitor": false,
+  "instruments": [
+   {
+    "id": 24,
+    "name": "AirGradient Open Air Generation 1 (O-1PST)"
+   }
+  ],
+  "sensors": [
+   {
+    "id": 15398001,
+    "name": "pm1 µg/m³",
+    "parameter": {
+     "id": 19,
+     "name": "pm1",
+     "units": "µg/m³",
+     "displayName": "PM1"
+    }
+   },
+   {
+    "id": 15398002,
+    "name": "pm25 µg/m³",
+    "parameter": {
+     "id": 2,
+     "name": "pm25",
+     "units": "µg/m³",
+     "displayName": "PM2.5"
+    }
+   },
+   {
+    "id": 15398003,
+    "name": "relativehumidity %",
+    "parameter": {
+     "id": 98,
+     "name": "relativehumidity",
+     "units": "%",
+     "displayName": "RH"
+    }
+   },
+   {
+    "id": 15398004,
+    "name": "temperature c",
+    "parameter": {
+     "id": 100,
+     "name": "temperature",
+     "units": "c",
+     "displayName": "Temperature (C)"
+    }
+   },
+   {
+    "id": 15398005,
+    "name": "um003 particles/cm³",
+    "parameter": {
+     "id": 125,
+     "name": "um003",
+     "units": "particles/cm³",
+     "displayName": "PM0.3 count"
+    }
+   }
+  ],
+  "coordinates": {
+   "latitude": 44.444659712008495,
+   "longitude": 26.1363416508151
+  },
+  "licenses": [
+   {
+    "id": 41,
+    "name": "CC BY 4.0",
+    "attribution": {
+     "name": "Andrei",
+     "url": null
+    },
+    "dateFrom": "2023-07-15",
+    "dateTo": null
+   }
+  ],
+  "bounds": [
+   26.1363416508151,
+   44.444659712008495,
+   26.1363416508151,
+   44.444659712008495
+  ],
+  "distance": 3346.36926153,
+  "datetimeFirst": {
+   "utc": "2026-02-08T21:00:00Z",
+   "local": "2026-02-08T23:00:00+02:00"
+  },
+  "datetimeLast": {
+   "utc": "2026-11-07T15:00:00Z",
+   "local": "2026-11-07T17:00:00+02:00"
+  }
+ }
+]
