@@ -1,0 +1,10 @@
+requests>=2.31
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+lightgbm>=4.3
+holidays>=0.50
+matplotlib>=3.8
+seaborn>=0.13
+python-dotenv>=1.0
+jupyter
